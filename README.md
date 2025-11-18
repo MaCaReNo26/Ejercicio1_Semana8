@@ -1,4 +1,5 @@
-3.	Funcionalidades a implementar
+Funcionalidades a implementar
+
 Opción 1: Ingresar precio
 •	Solicitar al usuario un valor numérico (double).
 •	Agregar el valor al ArrayList.
